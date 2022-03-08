@@ -1,0 +1,5 @@
+# Exercise 8: Explain each of the following using an example of a human
+# capability: (1) Central processing unit, (2) Main Memory, (3) Secondary Memory, (4) Input Device, and (5) Output Device. For example, “What is the human equivalent to a Central Processing Unit”?
+
+# (1) human brain (2) short-term memory (3) long-term memory
+# (4) human's senses like eyes to see, ears to hear, (5) mouth to communicate, facial expressions, well, to express

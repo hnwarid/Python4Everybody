@@ -1,0 +1,4 @@
+# What is the difference between a compiler and an interpreter?
+
+# A compiler translate a program from high-level into machine code all at once into a separate file for later execution
+# while an interpreter translate it one line at a time, right away

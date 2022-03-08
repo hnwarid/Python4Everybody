@@ -1,0 +1,11 @@
+# Exercise 6: Where in the computer is a variable such as “x” stored after the following Python line finishes?
+
+# x = 123
+
+# a) Central processing unit
+# b) Main Memory
+# c) Secondary Memory
+# d) Input Devices
+# e) Output Devices
+
+# b) main memory

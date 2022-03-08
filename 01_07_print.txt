@@ -1,0 +1,13 @@
+# Exercise 7: What will the following program print out:
+
+# x = 43
+# x = x + 1
+# print(x)
+
+# a) 43
+# b) 44
+# c) x + 1
+# d) Error because x = x + 1 is not possible mathematically
+
+# the answer is 44 because the second line is a new assignment statement for x
+# that binds its previous value (43) with another value (1)
