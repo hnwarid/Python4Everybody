@@ -22,7 +22,7 @@
 
 fhand = open('8_02_mbox-short-mod.txt')
 # count = 0
-daylist = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sum']
+daylist = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 for line in fhand:
     words = line.split()
     # print('Debug:', words)
